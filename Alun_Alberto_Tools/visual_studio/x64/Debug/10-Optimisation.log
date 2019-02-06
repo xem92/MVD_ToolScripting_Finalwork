@@ -1,43 +1,60 @@
 ﻿  CollisionSystem.cpp
   Components.cpp
-c:\users\joang\documents\master\toolscripts\mvd_toolscripting\finalwork\alun_alberto_tools\src\game.h(71): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
-c:\users\joang\documents\master\toolscripts\mvd_toolscripting\finalwork\alun_alberto_tools\src\components.cpp(153): warning C4312: 'conversión de tipo': conversión de 'int' a 'ImTextureID' de mayor tamaño
-  ControlSystem.cpp
-  DebugSystem.cpp
-c:\users\joang\documents\master\toolscripts\mvd_toolscripting\finalwork\alun_alberto_tools\src\game.h(71): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
-  GUISystem.cpp
-  Game.cpp
-c:\users\joang\documents\master\toolscripts\mvd_toolscripting\finalwork\alun_alberto_tools\src\game.h(71): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
-  GraphicsSystem.cpp
-  Parsers.cpp
-c:\users\joang\documents\master\toolscripts\mvd_toolscripting\finalwork\alun_alberto_tools\src\parsers.cpp(156): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: vea la declaración de 'fopen'
+c:\users\joang\documents\master\toolscripts\mvd_toolscripting_finalwork\mvd_toolscripting_finalwork\alun_alberto_tools\src\game.h(71): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\joang\documents\master\toolscripts\mvd_toolscripting_finalwork\mvd_toolscripting_finalwork\alun_alberto_tools\src\components.cpp(153): warning C4312: 'conversión de tipo': conversión de 'int' a 'ImTextureID' de mayor tamaño
   comp_faller.cpp
-c:\users\joang\documents\master\toolscripts\mvd_toolscripting\finalwork\alun_alberto_tools\src\components\comp_faller.cpp(22): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\joang\documents\master\toolscripts\mvd_toolscripting_finalwork\mvd_toolscripting_finalwork\alun_alberto_tools\src\components\comp_faller.cpp(22): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
   comp_rotator.cpp
   comp_tag.cpp
+  DebugSystem.cpp
+c:\users\joang\documents\master\toolscripts\mvd_toolscripting_finalwork\mvd_toolscripting_finalwork\alun_alberto_tools\src\game.h(71): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  Game.cpp
+c:\users\joang\documents\master\toolscripts\mvd_toolscripting_finalwork\mvd_toolscripting_finalwork\alun_alberto_tools\src\game.h(71): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  GraphicsSystem.cpp
+  ControlSystem.cpp
+  GUISystem.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_widgets.cpp
+  linmath.cpp
   main.cpp
-c:\users\joang\documents\master\toolscripts\mvd_toolscripting\finalwork\alun_alberto_tools\src\game.h(71): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\joang\documents\master\toolscripts\mvd_toolscripting_finalwork\mvd_toolscripting_finalwork\alun_alberto_tools\src\game.h(71): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  Parsers.cpp
+c:\users\joang\documents\master\toolscripts\mvd_toolscripting_finalwork\mvd_toolscripting_finalwork\alun_alberto_tools\src\parsers.cpp(156): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: vea la declaración de 'fopen'
+  RenderToTexture.cpp
+  ScriptSystem.cpp
+  Generando código...
+  Compilando...
+  Shader.cpp
   ConsoleModule.cpp
-c:\users\joang\documents\master\toolscripts\mvd_toolscripting\finalwork\alun_alberto_tools\src\tools\consolemodule.cpp(262): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-c:\users\joang\documents\master\toolscripts\mvd_toolscripting\finalwork\alun_alberto_tools\src\tools\consolemodule.cpp(263): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-c:\users\joang\documents\master\toolscripts\mvd_toolscripting\finalwork\alun_alberto_tools\src\tools\consolemodule.cpp(264): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-c:\users\joang\documents\master\toolscripts\mvd_toolscripting\finalwork\alun_alberto_tools\src\tools\consolemodule.cpp(276): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-c:\users\joang\documents\master\toolscripts\mvd_toolscripting\finalwork\alun_alberto_tools\src\tools\consolemodule.cpp(277): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-c:\users\joang\documents\master\toolscripts\mvd_toolscripting\finalwork\alun_alberto_tools\src\tools\consolemodule.cpp(278): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-c:\users\joang\documents\master\toolscripts\mvd_toolscripting\finalwork\alun_alberto_tools\src\tools\consolemodule.cpp(289): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-c:\users\joang\documents\master\toolscripts\mvd_toolscripting\finalwork\alun_alberto_tools\src\tools\consolemodule.cpp(302): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\joang\documents\master\toolscripts\mvd_toolscripting_finalwork\mvd_toolscripting_finalwork\alun_alberto_tools\src\tools\consolemodule.cpp(262): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\joang\documents\master\toolscripts\mvd_toolscripting_finalwork\mvd_toolscripting_finalwork\alun_alberto_tools\src\tools\consolemodule.cpp(263): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\joang\documents\master\toolscripts\mvd_toolscripting_finalwork\mvd_toolscripting_finalwork\alun_alberto_tools\src\tools\consolemodule.cpp(264): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\joang\documents\master\toolscripts\mvd_toolscripting_finalwork\mvd_toolscripting_finalwork\alun_alberto_tools\src\tools\consolemodule.cpp(276): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\joang\documents\master\toolscripts\mvd_toolscripting_finalwork\mvd_toolscripting_finalwork\alun_alberto_tools\src\tools\consolemodule.cpp(277): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\joang\documents\master\toolscripts\mvd_toolscripting_finalwork\mvd_toolscripting_finalwork\alun_alberto_tools\src\tools\consolemodule.cpp(278): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\joang\documents\master\toolscripts\mvd_toolscripting_finalwork\mvd_toolscripting_finalwork\alun_alberto_tools\src\tools\consolemodule.cpp(289): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\joang\documents\master\toolscripts\mvd_toolscripting_finalwork\mvd_toolscripting_finalwork\alun_alberto_tools\src\tools\consolemodule.cpp(302): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  EditorGraphModule.cpp
+c:\users\joang\documents\master\toolscripts\mvd_toolscripting_finalwork\mvd_toolscripting_finalwork\alun_alberto_tools\src\tools\editorgraphmodule.h(21): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(338): note: vea la declaración de 'strncpy'
   EditorSystem.cpp
-c:\users\joang\documents\master\toolscripts\mvd_toolscripting\finalwork\alun_alberto_tools\src\game.h(71): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
-c:\users\joang\documents\master\toolscripts\mvd_toolscripting\finalwork\alun_alberto_tools\src\tools\editorgraphmodule.h(21): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\joang\documents\master\toolscripts\mvd_toolscripting_finalwork\mvd_toolscripting_finalwork\alun_alberto_tools\src\game.h(71): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\joang\documents\master\toolscripts\mvd_toolscripting_finalwork\mvd_toolscripting_finalwork\alun_alberto_tools\src\tools\editorgraphmodule.h(21): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(338): note: vea la declaración de 'strncpy'
 c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': redefinición de macro
-  c:\users\joang\documents\master\toolscripts\mvd_toolscripting\finalwork\alun_alberto_tools\include\glfw\glfw3.h(98): note: vea la definición anterior de 'APIENTRY'
-c:\users\joang\documents\master\toolscripts\mvd_toolscripting\finalwork\alun_alberto_tools\src\tools\editorutils.h(10): warning C4099: 'NodeFile': nombre de tipo visto anteriormente usando 'class' ahora se ve usando 'struct'
-  c:\users\joang\documents\master\toolscripts\mvd_toolscripting\finalwork\alun_alberto_tools\src\tools\editorsystem.h(15): note: vea la declaración de 'NodeFile'
-c:\users\joang\documents\master\toolscripts\mvd_toolscripting\finalwork\alun_alberto_tools\src\tools\editorutils.h(13): warning C4099: 'NodeFile': nombre de tipo visto anteriormente usando 'class' ahora se ve usando 'struct'
-  c:\users\joang\documents\master\toolscripts\mvd_toolscripting\finalwork\alun_alberto_tools\src\tools\editorutils.h(13): note: vea la declaración de 'NodeFile'
-c:\users\joang\documents\master\toolscripts\mvd_toolscripting\finalwork\alun_alberto_tools\src\tools\editorsystem.cpp(86): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
-c:\users\joang\documents\master\toolscripts\mvd_toolscripting\finalwork\alun_alberto_tools\src\tools\editorsystem.cpp(188): warning C4312: 'conversión de tipo': conversión de 'GLuint' a 'void *' de mayor tamaño
+  c:\users\joang\documents\master\toolscripts\mvd_toolscripting_finalwork\mvd_toolscripting_finalwork\alun_alberto_tools\include\glfw\glfw3.h(98): note: vea la definición anterior de 'APIENTRY'
+c:\users\joang\documents\master\toolscripts\mvd_toolscripting_finalwork\mvd_toolscripting_finalwork\alun_alberto_tools\src\tools\editorutils.h(10): warning C4099: 'NodeFile': nombre de tipo visto anteriormente usando 'class' ahora se ve usando 'struct'
+  c:\users\joang\documents\master\toolscripts\mvd_toolscripting_finalwork\mvd_toolscripting_finalwork\alun_alberto_tools\src\tools\editorsystem.h(15): note: vea la declaración de 'NodeFile'
+c:\users\joang\documents\master\toolscripts\mvd_toolscripting_finalwork\mvd_toolscripting_finalwork\alun_alberto_tools\src\tools\editorutils.h(13): warning C4099: 'NodeFile': nombre de tipo visto anteriormente usando 'class' ahora se ve usando 'struct'
+  c:\users\joang\documents\master\toolscripts\mvd_toolscripting_finalwork\mvd_toolscripting_finalwork\alun_alberto_tools\src\tools\editorutils.h(13): note: vea la declaración de 'NodeFile'
+c:\users\joang\documents\master\toolscripts\mvd_toolscripting_finalwork\mvd_toolscripting_finalwork\alun_alberto_tools\src\tools\editorsystem.cpp(86): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\joang\documents\master\toolscripts\mvd_toolscripting_finalwork\mvd_toolscripting_finalwork\alun_alberto_tools\src\tools\editorsystem.cpp(188): warning C4312: 'conversión de tipo': conversión de 'GLuint' a 'void *' de mayor tamaño
+  EditorUtils.cpp
   Generando código...
-  10-Optimisation.vcxproj -> C:\Users\joang\Documents\Master\ToolScripts\MVD_ToolScripting\finalwork\Alun_Alberto_Tools\visual_studio\..\MVD_Engine_Tools.exe
+c:\users\joang\documents\master\toolscripts\mvd_toolscripting_finalwork\mvd_toolscripting_finalwork\alun_alberto_tools\src\tools\editorutils.cpp(110): warning C4715: 'ProcessEntity': no todas las rutas de acceso de control devuelven un valor
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  10-Optimisation.vcxproj -> C:\Users\joang\Documents\Master\ToolScripts\MVD_ToolScripting_Finalwork\MVD_ToolScripting_Finalwork\Alun_Alberto_Tools\visual_studio\..\MVD_Engine_Tools.exe
