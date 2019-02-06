@@ -9,7 +9,7 @@ Parameter: speed
 ### Add new component button
 Add new component: Rotator, Tag, Faller
 ## 4. Complete the renderer debug menu (material parameters support)
-Now you can change the ambient vector, diffuse vector and specular vector.
+Now you can change the ambient vector, diffuse vector and specular vector from the material.
 ## 5. Add script logic on console editor
 Script “sayhello”: print “Hello!!!” on console.
   
