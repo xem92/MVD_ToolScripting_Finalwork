@@ -3,9 +3,9 @@
 ## 2. Export scene information into the engine using the tools we created.
 ## 3. Create a new component (movable platform e.g).
 ### New component Faller
-Faller component added.
-if detect collision wait 10sec and fall with given speed 
-Parameter: speed
+Faller component added.  
+If a collision is detected, wait 10sec and fall with given speed.  
+Parameter: speed  
 ### Add new component button
 Add new component: Rotator, Tag, Faller
 ## 4. Complete the renderer debug menu (material parameters support)
@@ -23,7 +23,7 @@ Example: rotateObject Lvl01Box002 90 y
 ## 6. Finish loading json in max (scene changes between engine/max)
 WIP...
 ## 7. Add a button to delete entity
-Button added to delete entities.
+Button added to delete entities.  
 If you try to delete an entity with a camera it will show a message on the console.
 ## Extra
 Added the name of the entity on the inspector.
