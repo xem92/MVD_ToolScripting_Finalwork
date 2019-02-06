@@ -1,0 +1,5 @@
+{"scene":"qwe","entities":[
+
+{"name":"Box001","transform":{"translation":[-6.34683,2.43629e-07,5.57358],"rotation":[0.0,0.0,0.0],"scale":[1.0,1.0,1.0]},"render":{"mesh":"data/assets/meshes/Box001.mesh","materials":["data/assets/materials/mtl_default.mtl"]},"tags":["default"]},
+
+{"name":"Box002","transform":{"translation":[12.0517,5.01709e-07,11.4778],"rotation":[0.0,0.0,0.0],"scale":[1.0,1.0,1.0]},"render":{"mesh":"data/assets/meshes/Box002.mesh","materials":["data/assets/materials/mtl_default.mtl"]},"rotator":{"speed":1.0,"axis":[1.0,0.0,0.0]},"faller":{"speed":1.0,"axis":[1.0,0.0,0.0]},"tags":["default"]}]}
