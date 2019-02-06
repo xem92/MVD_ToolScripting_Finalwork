@@ -17,8 +17,8 @@ Script “moveObject”:
 Parameters: object name, translate x, translate y, translate z
 Example moveObject Lvl01Box002 10 0 4
 
-Script “rotateObject”: 
-Parameters: object name, angle in degrees, axis (x, y or z)
+Script “rotateObject”:  
+Parameters: object name, angle in degrees, axis (x, y or z) 
 Example: rotateObject Lvl01Box002 90 y
 ## 6. Finish loading json in max (scene changes between engine/max)
 WIP...
