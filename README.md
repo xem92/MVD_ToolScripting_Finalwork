@@ -15,7 +15,7 @@ Script “sayhello”: print “Hello!!!” on console.
   
 Script “moveObject”:  
 Parameters: object name, translate x, translate y, translate z  
-Example moveObject Lvl01Box002 10 0 4  
+Example: moveObject Lvl01Box002 10 0 4  
   
 Script “rotateObject”:  
 Parameters: object name, angle in degrees, axis (x, y or z)  
@@ -26,4 +26,4 @@ WIP...
 Button added to delete entities.
 If you try to delete an entity with a camera it will show a message on the console.
 ## Extra
-Added the name of the entity in the inspector.
+Added the name of the entity on the inspector.
