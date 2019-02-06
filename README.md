@@ -1,5 +1,6 @@
 # MVD_ToolScripting_Finalwork
 ## 1. Design your own level (Whitebox)
+![alt text](https://raw.githubusercontent.com/xem92/MVD_ToolScripting_Finalwork/master/map.png)
 ## 2. Export scene information into the engine using the tools we created.
 ## 3. Create a new component (movable platform e.g).
 ### New component Faller
